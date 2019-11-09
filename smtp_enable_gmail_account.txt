@@ -1,0 +1,8 @@
+// smtp enable
+
+// setting
+// Forwarding and POP/IMAP
+// Enable IMAP
+// save changes
+// my account
+// security -> Less secure app access -> off/on.

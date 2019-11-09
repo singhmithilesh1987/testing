@@ -1,0 +1,9 @@
+Default SMTP Settings for Gmail
+As you set up an email client to synchronize with your Gmail account, a screen asks for your Gmail SMTP information. Use these settings:
+
+Gmail SMTP server address: smtp.gmail.com
+Gmail SMTP username: Your Gmail address (for example, example@gmail.com)
+Gmail SMTP password: Your Gmail password
+Gmail SMTP port (TLS): 587
+Gmail SMTP port (SSL): 465
+Gmail SMTP TLS/SSL required: Yes
